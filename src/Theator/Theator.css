@@ -1,0 +1,65 @@
+.Theatorcontainer{
+    width:80%;
+    margin:auto;
+}
+.TheatreHeader{
+    background-color:#333338;
+}
+.Theatresection{
+    background-color: white;
+    padding: 0 3rem 3rem;
+}
+.TheatreHeader h1{
+    color:white;
+    padding: 1rem 0 1rem 0;
+}
+.Theatorcontent{
+    display: flex;
+    justify-content: space-evenly;
+    width:20%;
+}
+.Theatordate1{
+    background-color: #f84464;
+    color:white;
+    padding:1rem ;
+}
+.Theatordate{
+    border:1px solid black;
+    padding:1rem;
+}
+.language{
+    border:1px solid black;
+    border-bottom:3px solid #f84464;
+}
+.Theatorhead{
+    display: flex;
+    justify-content: space-between;
+    width:100%;
+}
+.Theatorbackpage{
+    background-color: #D5DBDB;
+    padding: 1rem 0 ;
+}
+.Theatorname{
+    padding-top: 2rem;
+}
+.Theatredisplay{
+    display: flex;
+    justify-content: space-between;
+    width:80%;
+    padding-bottom: 2rem;
+    border-bottom: 1px solid black;
+}
+.Theatretime{
+    display: flex;
+    justify-content: space-between;
+    width:50%;
+    cursor: pointer;
+    padding-top: 3rem;
+}
+.Theatretime1{
+    border:1px solid #ABB2B9;
+    border-radius: 7%;
+    padding:1rem;
+    color:green;
+}

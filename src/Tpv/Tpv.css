@@ -1,0 +1,66 @@
+.Theatre1seatmain{
+    background-color: black;
+    width:100%;
+    height: 110vh;
+}
+.Theatre1seatmain h1{
+    color:white;
+    text-align: center;
+}
+.Theatre1seat{
+    background-color:white ; 
+    width:40%;
+    height:90vh;
+    text-align: center;
+    margin:auto;
+    padding: 1rem;
+}
+.selectseatbutton{
+    margin-top: 2rem;
+}
+.selectseatbutton button{
+    background-color: #f84464;
+    color:white;
+    padding:1rem 6rem 1rem 6rem;
+    border:none;
+    font-size: 1.5rem;
+}
+.selectseatbutton{
+    margin-top: 2rem;
+}
+.selectseatbutton button{
+    background-color: #f84464;
+    color:white;
+    padding:1rem 4rem 1rem 4rem;
+    border:none;
+    font-size: 1.5rem;
+}
+.rate h3{
+    color:gray;
+    font-size:1.2rem;
+    margin-left:3rem;
+}
+.rate h4{
+    color:#15F5C0; 
+    font-size:1rem;
+    margin-left:3rem;
+}
+.rate p{
+    font-size:1rem;
+    margin-left:3rem;
+}
+.button{
+    display:inline-block;
+    transition: .5s;
+    width: 10px;
+    height: 10px;
+    justify-content: center;
+    align-items: center;
+    line-height: 30px;
+    font-size: 14px;
+    margin-top:1rem;
+    position: relative;
+    color: #333;
+    margin:auto;
+    border-radius: 50%;
+}

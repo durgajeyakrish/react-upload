@@ -1,0 +1,76 @@
+[
+    {
+        "id":1,
+        "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-OS4zLzEwICAxNy45SyB2b3Rlcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00349087-jlwphflscy-portrait.jpg",
+        "moviename":"Dada",
+        "discription":"Drama/Family",
+        "backgroundimage":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/dada-et00349087-1675324293.jpg"
+    },
+    {
+        "id":2,
+        "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-OC4xLzEwICAxOC40SyB2b3Rlcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00335415-jvkfdwbkqe-portrait.jpg",
+        "moviename":"Vaathi",
+        "discription":"Action/Drama",
+        "backgroundimage":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/vaathi-et00335415-1663587908.jpg"
+    }
+    ,  {
+        "id":3,
+        "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-OS4zLzEwICA1LjZLIHZvdGVz,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00350136-vglxaabfag-portrait.jpg",
+        "moviename":"Ayothi",
+        "discription":"Drama",
+        "backgroundimage":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/ayodhi-et00350136-1673932656.jpg"
+    }
+    ,  {
+        "id":4,
+        "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-NS4zLzEwICAzLjlLIHZvdGVz,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00322925-kurhuyumbw-portrait.jpg",
+        "moviename":"Agilan",
+        "discription":"Action/Drama/Thillar",
+        "backgroundimage":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/agilan-et00322925-1662624430.jpg"
+    }
+    ,  {
+        "id":5,
+        "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-Ny4xLzEwICAxLjFLIHZvdGVz,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00354408-nlhjtfzylr-portrait.jpg",
+        "moviename":"Memories",
+        "discription":"Crime/Advanture",
+        "backgroundimage":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/memories-et00354408-1678107683.jpg"
+    },
+    {
+        "id":6,
+        "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-Ny45LzEwICAxLjhLIHZvdGVz,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00354916-adhpkbffhk-portrait.jpg",
+        "moviename":"Kannai Nammbathe",
+        "discription":"Crime/Drama/Thillar",
+        "backgroundimage":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/kannai-nambaathe-et00354916-1678796807.jpg"
+    },
+    {
+        "id":7,
+        "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@like_202006280402.png,ox-24,oy-617,ow-29:ote-MTEyLjNLIGxpa2Vz,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00316318-qntkhfkyvl-portrait.jpg",
+        "moviename":"Dasara",
+        "discription":"Action/Adventure/Fantasy",
+        "backgroundimage":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/dasara-et00316318-1679638362.jpg"
+    },
+    {
+        "id":8,
+        "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@like_202006280402.png,ox-24,oy-617,ow-29:ote-Mi41SyBsaWtlcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00335285-tnrykbsgax-portrait.jpg",
+        "moviename":"Kashethan Kadavulada",
+        "discription":"Comedy/Drama",
+        "backgroundimage":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/kasethan-kadavulada-2022-et00335285-1658746170.jpg"
+    }
+    ,
+    {
+        "id":9,
+        "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-Ny4xLzEwICA2OTIgdm90ZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00349072-gtljwyqhvs-portrait.jpg",
+        "moviename":"Kondraal Paavam",
+        "discription":"Crime/Drama/Thillar",
+        "backgroundimage":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/kondraal-paavam-et00349072-1672993050.jpg"
+    }
+    ,
+    {
+        "id":10,
+        "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@like_202006280402.png,ox-24,oy-617,ow-29:ote-MTcwIGxpa2Vz,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00355495-lverxuezlp-portrait.jpg",
+        "moviename":"N4",
+        "discription":"Drama/Crime",
+        "backgroundimage":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/n4-et00355495-1679559019.jpg"
+       
+    }
+    
+]

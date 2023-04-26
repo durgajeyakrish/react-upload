@@ -1,0 +1,36 @@
+.main{
+    background-color: #333338;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 2rem;
+}
+.line{
+    width:40%;
+}
+.main1{
+    width:95%;
+    margin:auto;
+}
+.icon{
+    display: flex;
+    justify-content: space-between;
+    width:15%;
+    padding-left: 31rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    margin-left:66px;
+
+}
+.icon1{
+    border-radius: 50%;
+    color: #333338;
+    background-color: #ABB2B9;
+    width: 100%;
+    height:6vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+}

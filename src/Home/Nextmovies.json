@@ -1,0 +1,33 @@
+[{
+    "id":1,
+    "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-Ny45LzEwICAxLjhLIHZvdGVz,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00354916-adhpkbffhk-portrait.jpg",
+    "moviename":"Kannai Nammbathe",
+    "discription":"Crime/Drama/Thillar"
+},
+{
+    "id":2,
+    "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@like_202006280402.png,ox-24,oy-617,ow-29:ote-MTEyLjNLIGxpa2Vz,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00316318-qntkhfkyvl-portrait.jpg",
+    "moviename":"Dasara",
+    "discription":"Action/Adventure/Fantasy"
+},
+{
+    "id":3,
+    "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@like_202006280402.png,ox-24,oy-617,ow-29:ote-Mi41SyBsaWtlcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00335285-tnrykbsgax-portrait.jpg",
+    "moviename":"Kashethan Kadavulada",
+    "discription":"Comedy/Drama"
+}
+,
+{
+    "id":4,
+    "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-Ny4xLzEwICA2OTIgdm90ZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00349072-gtljwyqhvs-portrait.jpg",
+    "moviename":"Kondraal Paavam",
+    "discription":"Crime/Drama/Thillar"
+}
+,
+{
+    "id":5,
+    "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@like_202006280402.png,ox-24,oy-617,ow-29:ote-MTcwIGxpa2Vz,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00355495-lverxuezlp-portrait.jpg",
+    "moviename":"N4",
+    "discription":"Drama/Crime"
+}
+]

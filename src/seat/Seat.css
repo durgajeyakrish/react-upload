@@ -1,0 +1,59 @@
+.seat-map {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  .container{
+    width:90%;
+    margin:auto;
+    
+}
+  .row {
+    display: flex;
+    gap: 10px;
+  }
+  
+.seat {
+    width: 30px;
+    height: 30px;
+    font-size: 12px;
+    background-color: #f1f1f1;
+    border: none;
+    border-radius: 5px;
+    margin-top:1rem;  
+    cursor: pointer;
+  }
+.seat:nth-child(10) {
+    margin-left: 140px;
+}
+.seat:nth-child(5) {
+  margin-left: 120px;
+}
+.seat:nth-child(1){
+  margin-left: 10rem;
+ 
+}
+  .seat.selected {
+    background-color: #00bfff;
+    color: #fff;
+  }
+  
+  .seat.booked {
+    background-color: #ccc;
+    cursor: default;
+    opacity: 0.5;
+  }
+  
+  button:disabled {
+    cursor: not-allowed;
+  }
+  .payment button{
+        margin-top:1.7rem;
+        background-color: #f84464;
+        height:7vh;
+        width:20%;
+        border-radius: 10px;
+        border:none; 
+        margin-left:29rem;
+  }
+ 
